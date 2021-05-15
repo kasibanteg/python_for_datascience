@@ -1,0 +1,12 @@
+.login_labels {
+font-weight: 700;
+color:whitesmoke;
+}
+.stButton>button {
+    color:rgb(205,92,92);
+    border-radius: 50%;
+    height: 5em;
+    width: 4em;
+    font-weight:700;
+    background-color:rgb(250,235,215);
+}
